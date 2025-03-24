@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 🌱 Estou estudando atualmente **Typescript, NextJS**
 
-<h3 align="left">Connecte comigo:</h3>
+<h3 align="left">Connecte-se comigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/valdemirfilho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="valdemirfilho" height="30" width="40" /></a>
 </p>
