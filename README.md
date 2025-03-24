@@ -34,3 +34,6 @@ Here are some ideas to get you started:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=valdemirfilho&show_icons=true&locale=en" alt="valdemirfilho" /></p>
 
+<!-- [![An image of @valdemirfilho's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/valdemirfilho)](https://holopin.io/@valdemirfilho) -->
+<img src="https://holopin.me/valdemirfilho" alt="An image of @valdemirfilho's Holopin badges, which is a link to view their full Holopin profile" width="80%">
+
